@@ -15,6 +15,8 @@ Generación de código más limpio y adherente a las convenciones de Django
 Detección y manejo de errores en el SQL de entrada
 
 
+puedes probarlo [aqui](https://create-model-django-migrate.vercel.app/)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
