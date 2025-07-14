@@ -1,3 +1,20 @@
+## Práctica: Conversión de tablas SQL a modelos Django
+
+Esta práctica consiste en crear un lenguaje formal para convertir tablas de SQL a modelos de Django. Si bien la implementación actual no es perfecta (ya que requiere validar muchos aspectos), se tiene la estructura básica funcional.
+
+Me gustaría seguir mejorando el código, aunque reconozco que el enfoque actual podría no ser el más óptimo. Por ahora no se me ocurre una alternativa mejor, pero estoy abierto a sugerencias para optimizarlo.
+
+Aspectos a mejorar:
+
+Validación exhaustiva de los tipos de datos y sus atributos
+
+Manejo de relaciones entre modelos (claves foráneas, etc.)
+
+Generación de código más limpio y adherente a las convenciones de Django
+
+Detección y manejo de errores en el SQL de entrada
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
